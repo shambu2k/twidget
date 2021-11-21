@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/twitter_profile_feed"
+    android:initialLayout="@layout/twitter_profile_feed"
+    android:minWidth="320dp"
+    android:minHeight="200dp"
+    android:previewImage="@drawable/raamesh_preview"
+    android:configure="com.shambu2k.twidget.ConfigActivity"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="86400000"
+    android:widgetCategory="home_screen" />

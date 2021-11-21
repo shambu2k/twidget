@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Twidget</string>
+    <string name="instruction">Use suggested twitter rss generator and paste the rss link here.</string>
+    <string name="instruction_edt_hint">Paste RSS link of the twitter profile</string>
+    <string name="save">Save</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="give_widget_a_title">Give widget a title</string>
+</resources>
